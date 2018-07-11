@@ -1,5 +1,5 @@
 # GitRIA
- Test task RIA.com #1 / (git)
+ Test task RIA.com #1 / ( git )
  
 ## Quick start
 
